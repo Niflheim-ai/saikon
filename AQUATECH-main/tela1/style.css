@@ -236,7 +236,7 @@ body {
 }
 
 .w3-sidebar .w3-bar-item:hover {
-  background-color: #00C6C3 !important;
+  background-color: #00C6C3;
   color: #131627 !important;
 }
 
@@ -261,7 +261,11 @@ body {
 }
 
 .w3-bar-block .w3-bar-item:hover {
-  background-color: #00C6C3 !important;
+  background-color: #00C6C3;
+}
+
+.w3-close:hover {
+  background-color: #ce3434 !important;
 }
 
 .w3-bar-item {
